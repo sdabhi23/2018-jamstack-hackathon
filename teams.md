@@ -90,6 +90,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Sohel Shaikh (@thesohelshaikh)
 * Seeking Teammates: No
 * [Project URL](https://github.com/sdabhi23/count-em-all)
-* Count'em All
+* [Project link](https://count-em-all.netlify.com/)
 
 ***
